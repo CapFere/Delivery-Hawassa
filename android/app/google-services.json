@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660803916968",
+    "firebase_url": "https://deliveryhawassa-77164.firebaseio.com",
+    "project_id": "deliveryhawassa-77164",
+    "storage_bucket": "deliveryhawassa-77164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660803916968:android:8c3b9fa2351d1b36059e9d",
+        "android_client_info": {
+          "package_name": "com.deliveryhawassa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660803916968-hgmm2int41aok7t1sbfe6lck4ec619fn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliveryhawassa",
+            "certificate_hash": "dfe05c47ca557df35760de43836553db3cd76dce"
+          }
+        },
+        {
+          "client_id": "660803916968-oqcv05ph4g1pnqja31qi2m99vtsg82oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhJEqQwJpQdRDneabBxdtqXXkdbKrr2lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660803916968-oqcv05ph4g1pnqja31qi2m99vtsg82oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
